@@ -7,4 +7,4 @@ on:
 
 jobs:
   use_shared_workflow:
-    uses: /shared-workflows/.github/workflows/shared_workflow.yml@main
+    uses: clouddrove/shared-workflows/.github/workflows/shared_workflow.yml@main
